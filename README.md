@@ -1,4 +1,4 @@
-1.ch01--> variable
+- 1.ch01--> variable
 2.ch02--> Datatypes
 3.ch03--> operators
 4.ch04--> conditional statements
